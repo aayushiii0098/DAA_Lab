@@ -8,8 +8,8 @@ School of Engineering and Technology
 DESIGN ANALYSIS AND ALGORITHM LAB
 LAB RECORD
 <br><br>
-Student Name: Aayushi Pankaj Khandelwal
-Enrollment Number: 240017
+Student Name: Diwanshi
+Enrollment Number: 240037
 <br>
 Faculty Name: Dr. P. K. Bishnoi
 <br><br>
